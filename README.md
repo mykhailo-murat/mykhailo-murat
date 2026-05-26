@@ -2,7 +2,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt0MnBwMTE3NWd2bmx3YzR2cnI1anZuM3lsa2k1ZGtmYmN6Y2YxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" height="200">
 
-🌍 3+ years in web development, delivered 30+ projects for clients in the US, EU, and UAE.  
+🌍 5+ years in web development, delivered 30+ projects for clients in the US, EU, and UAE.  
 🔧 Started with WordPress/Shopify → now focused on Python backend development.  
 🛒 Built custom e-commerce apps, internal tools, task managers, REST APIs.  
 🚀 Learning cloud (GCP), scalable architecture, Python and React.
@@ -24,4 +24,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mykhailo-murat)
 
 
-[last update 20.10.2025]
+[last update 26.05.2026]
