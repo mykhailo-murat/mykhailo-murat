@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykhailo-murat/)](https://www.linkedin.com/in/mykhailo-murat/)
 [![Gmail Badge](https://img.shields.io/badge/-mykhailo.murat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mykhailo.murat@gmail.com)](mailto:mykhailo.murat@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mykhailo_murat)](https://t.me/mykhailo_murat)
-[![CV](https://drive.google.com/file/d/1Tr9t-YiU1fxTh9WVpF5GQm2qcKYJk7ZZ/view)
+[![CV](https://img.shields.io/badge/-CV-c14438?style=flat-square&logo=Drive&logoColor=white&link=https://drive.google.com/file/d/1xtSb-ma_ZHQoVdtvgbzpQufv1a3VLdRE/view?usp=drive_link)](https://drive.google.com/file/d/1Tr9t-YiU1fxTh9WVpF5GQm2qcKYJk7ZZ/view)
 
 ## ⚡ Technologies
 
